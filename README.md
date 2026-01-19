@@ -7,8 +7,8 @@ SWAYWM:
 Foot:
 
 **Waybar:**
-OriginCode:
-Mechbar: 
+- OriginCode:
+- Mechbar: 
 
 Rofi:
 
