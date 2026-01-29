@@ -27,4 +27,4 @@ NVIM:
 - [ ] 
 
 Obsidian.md:
-- <https://github.com/insanum/obsidian_gruvbox>
+- <https://github.com/insanum/obsidian_gruvbox> - by insanum (Eric Davis)
