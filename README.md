@@ -1,24 +1,30 @@
 ### Collection of Gruvbox themes:
 
 **OG:** 
-- https://github.com/morhetz/gruvbox
-- https://github.com/morhetz/gruvbox-contrib
+- Gruvbox: <https://github.com/morhetz/gruvbox>
+- Gruvbox Contrib: <https://github.com/morhetz/gruvbox-contrib>
 
 SWAYWM:
 - [ ] Thr3d33 dotfiles
+- [ ]
 
 Foot:
 - [ ] THr3d33 dotfiles
-
+- [ ]
 
 **Waybar:**
 - [ ] Thr3d33 dotfiles
-- OriginCode:
-- Mechbar: 
+- [ ] OriginCode:  
+- [ ] Mechbar: 
 
 Rofi:
 - [ ] Thr3d33 dotfiles
+- [ ] 
 
 NVIM:
-- [ ]  THr3d33 dotfiles
+- [ ] THr3d33 dotfiles
+- [ ] Gruvbox Material:
+- [ ] 
 
+Obsidian.md:
+- <https://github.com/insanum/obsidian_gruvbox>
