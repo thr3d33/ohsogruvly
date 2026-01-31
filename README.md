@@ -45,9 +45,9 @@ NVIM:
 ---
 
 Gruvbox Material:
-https://github.com/sainnhe/gruvbox-material
+- <https://github.com/sainnhe/gruvbox-material>
 
 Gruvbox Cheatsheet:
-https://github.com/arsmoriendy/gruvbox-cheatsheet.git
-https://arsmoriendy.github.io/gruvbox-cheatsheet/
+- <https://github.com/arsmoriendy/gruvbox-cheatsheet.git>
+- <https://arsmoriendy.github.io/gruvbox-cheatsheet/>
 
